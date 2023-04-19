@@ -7,9 +7,7 @@ using namespace std;
 /*
     --------------------------------------------------------------------------------------------------------
     AUTHOR: QUY LE MINH
-    UPDATE DATE: 02/28/2023
-
-    IF YOU HAVE ANY ISSUE OR PROBLEM RELATED TO THESE TESTCASES, CONTACT ME VIA: www.facebook.com/quyleemin
+    UPDATE DATE: 04/19/2023
     --------------------------------------------------------------------------------------------------------
 */
 
@@ -27,7 +25,7 @@ int main() {
     string s1, s2;
     HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
     for (int i = 0; i < 100; i++){
-        string expect = "expected" + to_string(i+1) + ".txt";
+        string expect = "C:\\Users\\Admin\\OneDrive\\ass2\\testcase\\output\\expected" + to_string(i+1) + ".txt";       //<-------- Throw your output folder path here and add additional \ in your path. Then add \\expected. In general, your path will look similar mine.
         string got = "got" + to_string(i+1) + ".txt";
 
         ifstream output(got);
