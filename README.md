@@ -33,8 +33,8 @@ outfile.open("got" + to_string(testcase) + ".txt"); //don't forget to close at t
 - Replace all **cout** in result.cpp file to  **outfile**. For example, instead of *cout << "Empty\n;* change to *outfile << "Empty\n"*.
 - Finally, run main.cpp to get all the "got.txt" file. If you already have it, skip this step.
 # Compile
-- ASan is a powerful tool to check memory leak of your program and tt works really well on Linux. You can read documentations of how to install it.
-- (Optional) For checking memory leak, first change directory to your folder, then run the command below, in here I'm using clang compiler:
+- ASan is a powerful tool to check memory leak of your program and it works really well on Linux. You can read documentations of how to install it.
+- (Optional) For checking memory leak, first change directory to your folder, then run the command below, in here I'm using gcc compiler:
  ```sh
 g++ -fsanitize=address -g main.cpp -o main
 ./main
