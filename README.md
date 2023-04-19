@@ -39,7 +39,7 @@ outfile.open("got" + to_string(testcase) + ".txt"); //don't forget to close at t
 g++ -fsanitize=address -g main.cpp -o main
 ./main
 ```
-- Finally, run **test.cpp** file and debugging with me.
+- Finally, change the output path folder in **test.cpp** (details in this file), run **test.cpp** file and debugging with me.
 
 # Bottom line
 This is only for reference purposes. I will not be responsible for any complaints regarding your grades.
