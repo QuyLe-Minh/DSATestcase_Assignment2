@@ -3,6 +3,8 @@
 - (04/19/2023 12:15) Welcome for your contributions. Please always tracking update session, If any further update are made, please clone my repo again. Thank you!!!
 # Introduction
 The reason why I make this to support you and me to get 10 points at DSA assignment 2 <("). If you have any issues with my result, because of very long output, please open **ISSUES** with heading according to format (TESTCASE _ LINE OF INPUT _ LINE OF EXPECTED) then describe it for me. 12 hours before deadline, I will close **ISSUES**, so please complete as soon as possible hehe.
+# Note
+If you pass all testcase, please check if your expect files are empty or not, if it empty, it means that the program is dumped.
 # Set up
 ## 1. Clone my repos
 - Make a cloned of my repository using the following command in git bash: 
