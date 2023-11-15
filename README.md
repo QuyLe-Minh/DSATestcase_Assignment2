@@ -6,7 +6,7 @@
 - (04/24/2023 21:10) Update a lot more things to meet requirements.
 - (05/01/2023 11:30) Fix bugs related to Heap and optimize input files.
 # Introduction
-The reason why I make this to support you and me to get 10 points at DSA assignment 2 <("). If you have any issues with my result, because of very long output, please open **ISSUES** after **very carefully checking** with heading according to format (TESTCASE _ LINE OF INPUT _ LINE OF EXPECTED) then describe it for me. 12 hours before deadline, I will close **ISSUES**, so please complete as soon as possible hehe.
+The reason why I make this is to support you and me to get 10 points at DSA assignment 2 <("). If you have any issues with my result, because of very long output, please open **ISSUES** after **very carefully checking** with heading according to format (TESTCASE _ LINE OF INPUT _ LINE OF EXPECTED) then describe it for me. 12 hours before deadline, I will close **ISSUES**, so please complete as soon as possible hehe.
 # Note
 - Inputs have no noise, maybe I'll add later.
 - If you pass all testcase, please check if your expect files are empty or not, if empty, it means that the program is dumped.
