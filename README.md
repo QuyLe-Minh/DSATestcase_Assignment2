@@ -17,7 +17,7 @@ The reason why I make this is to support you and me to get 10 points at DSA assi
 git clone https://github.com/QuyLe-Minh/DSATestcase_Assignment2.git
 ```
 ## 2. main.cpp file
-- Make a copy of your main file (restaurant.cpp) and the paste it to the same folder. For simplicity, please rename your copied file to **result.cpp** to make it synthesize with mine.
+- Make a copy of your main file (restaurant.cpp) and then paste it to the same folder. For simplicity, please rename your copied file to **result.cpp** to make it synthesize with mine.
 - In **main.cpp** file I've already made for you, include your copied file path. If you already rename to **result.cpp**, skip this step.
 - Finally, change the input path folder to get input files. Details in file **main.cpp**.
 ## 3. result.cpp file
